@@ -14,4 +14,9 @@ export const tasks = [
     title: "mi 3 tarea",
     description: "mi 3 tarea",
   },
+   {
+    id: 3,
+    title: "mi 4 puchis ",
+    description: "mi 3 puchis",
+  },
 ];
